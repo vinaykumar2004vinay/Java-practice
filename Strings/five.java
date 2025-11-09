@@ -1,0 +1,8 @@
+class five
+{
+    public static void main(String args[])
+    {
+        String Name = new String("Vinay ");
+        System.out.println(Name.concat("Kumar"));
+    }
+}
